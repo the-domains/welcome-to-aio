@@ -1,4 +1,3 @@
-layout_spectrum: 0.9357014114502817
 typography_spectrum: 0.8647036631591618
 color:
   brandStrength: 0.8041415445040911
@@ -11,4 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.9357014114502817
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe624a6b-a60a-4140-a4ba-c4e46cf85efd.png'
 name: 'Welcome to A.io!'
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee2c597b-0d27-48a3-aca4-fd33271284af.ico'
