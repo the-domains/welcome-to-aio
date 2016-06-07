@@ -1,0 +1,14 @@
+layout_spectrum: 0.9357014114502817
+typography_spectrum: 0.8647036631591618
+color:
+  brandStrength: 0.8041415445040911
+  lightness: 0.8493490379769355
+  saturation: 0.7261731687467545
+  rhythmicContrast: 0.0025271540507674217
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: 'Welcome to A.io!'
