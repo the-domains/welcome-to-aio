@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Welcome to A.io!]]></title>
+        <description><![CDATA[Welcome to A.io!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 07 Jun 2016 19:12:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Online portfolio of A.io! - Efty]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c43cbb67-c2f6-4899-8893-90610e2bb839.png">]]></description>
+            <link>http://domains.a.io</link>
+            <guid isPermaLink="false">9aab92e0-99bb-4c76-93ae-eef70140efac</guid>
+            <pubDate>Tue, 07 Jun 2016 19:12:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
